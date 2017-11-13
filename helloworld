@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+
+int maain()
+{
+
+  printf("Hello World\n");
+  return 0;
+}
